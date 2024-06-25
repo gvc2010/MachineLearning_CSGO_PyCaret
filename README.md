@@ -26,3 +26,5 @@ from sklearn.svm import SVC
 from sklearn.metrics import accuracy_score, classification_report
 from pycaret.classification import *
 ```
+
+## Continuação Detalhada no Código...
